@@ -1,2 +1,2 @@
 lab6: scheduler.cpp
-	@g++ -g scheduler.cpp -o lab6
+	@g++ -g scheduler.cpp -o scheduler

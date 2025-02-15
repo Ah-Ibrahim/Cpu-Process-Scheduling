@@ -22,7 +22,8 @@ This project implements a **process scheduling simulator** in C++ that supports 
 ### Compile the Program:
 
 ```sh
-g++ -o scheduler scheduler.cpp -std=c++11
+make # using Makefile or
+g++ -g scheduler.cpp -o scheduler
 ```
 
 ### Run the Program:
