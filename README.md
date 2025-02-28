@@ -67,7 +67,7 @@ The input is read from standard input (`stdin`). You can redirect a file contain
 
 ## Code Structure
 
-- **`scheduler.h`**: Header file defining process structures and scheduling logi.
+- **`scheduler.h`**: Header file defining process structures and scheduling logic.
 - **`scheduler.cpp`**: Implements parsing, scheduling algorithms, and result output.
 
 ## Input Format
